@@ -1,0 +1,90 @@
+body {
+background-color: #668a92;
+border: 6px solid rgb(85, 43, 12);
+margin: 10px 10px 10px 10px solid ;
+border-radius: 15px;
+font-family: Verdana, Arial, Tahoma, sans-serif;
+max-width: 900px;
+margin: auto;
+text-align: justify;
+}
+
+.andre-foto {
+  border-radius: 50%;
+  border: 6px solid rgb(85, 43, 12);  
+}
+.evilasio-foto{
+  border-radius: 5% 7% 5% 7% ;
+  margin: 15px 100% 15px 0px;
+  width: 100%;
+}
+
+p{
+  font-size: 18px;
+  color: rgb(85, 43, 12);  
+  margin-left: 15px;
+  margin-right: 10px;
+  text-indent: 18px;
+}
+
+
+
+#title, .subtitle, .post_title {
+  color: rgb(85, 43, 12);  
+}
+#title {
+  font-size: 40px;
+  text-transform:uppercase;
+}
+a {
+  text-decoration:underline;
+  color: rgb(32, 24, 24);
+  font-weight: bold;  
+}
+
+.h2-subtitle{
+  font-size: 25px;
+  color: rgb(85, 43, 12);  
+  font:bolder;
+  text-align: center;
+}
+.h2-subtitle-content {
+  font-size: 18px;
+}
+.post-content-foto-h2{
+color: rgb(85, 43, 12);  
+margin-top: 0%;
+margin: 10px;
+margin-bottom: 15px;  
+font-size: 18px;
+}
+.post {
+  background-color: rgb(58, 98, 127);
+  padding: 5px 10px 5px 10px ;
+  border: 6px solid rgb(85, 43, 12);
+  margin: 20px;
+  margin-bottom: 15px;
+  font-weight: bolder;
+}
+.contacts-list ul{
+  list-style-type: none;
+  padding-left: 5px;
+  margin: 5px;
+}
+.contacts-list li a {
+  color: blue;
+}
+.post_title{
+  font-size: 25px;
+  font-style: italic;
+  margin: 0;
+  margin-bottom: 15px;
+  color: rgb(85, 43, 12);  
+}
+.retirandoUL ul{
+  list-style-type: none;
+}
+
+
+
+
