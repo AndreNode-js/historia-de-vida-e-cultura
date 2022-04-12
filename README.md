@@ -3,6 +3,36 @@ Venha contar uma breve história do meu pai, que hoje faz parte do nosso Brasil.
 
 link da página:  https://andrenode-js.github.io/historia-de-vida-e-cultura/
 
+Página quem sou eu:
+<!DOCTYPE html>
+ <html lang="pt-br">
+   <head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="style.css">
+
+          <title>Apresentação-Família</title>
+</head>
+   <body>
+    <img class="andre-foto" src="evilasio-e-andre-fotos/andré-foto-indígenas/001-índio-andré-capa-grande.jpg" alt="Ilustração da caracterização indígena do rosto de André">
+            <h3 class="h2-subtitle">Trazendo um pouco de mim para vocês.</h3>
+  <p>
+    Sou André Silva, tenho 32 anos, nascido Teofilo-Otoni-MG, hoje moro em Olinda-PE, gosto muito dessa cidade pois ela tem histórias culturais como meu povo Fulni-ô também tem as suas. Sou índio mestiço, apesar de não parecer índio devido a genética da minha mãe. Por toda a minha vida, sempre disse que tenho orgulho de falar que sou filho de Evilasio Caroba, Índio Fulni-ô, do interior de Águas Belas - PE. Apesar de não ter vivido na minha aldeia devido a diversas viagens que a minha família sempre fez pelo Brasil, onde contei que em uma delas o meu pai e "toda a minha família" estavam em Brasília-DF, prestando apoio aos companheiros indígenas de outra tribo.   
+   <p>
+     Quero ressaltando que apesar de não ter participada tanto quanto gostaria de ter estado na minha tribo. Hoje venho me desenvolvendo atrás de alguns dos meus sonhos que seria um deles, a tão fascinante tecnologia que estou tentando e tendo a oportunidade de aprender. A cada dia dou um passo a frente nesse grande mar de conhecimento que "nunca vai ter fim"!   
+   </p>
+   <p>
+     Re-lembrando que meu pai também tinha uma associação indígena e com o seu   ardo trabalho "sempre estava ajudando os índios que precisavam". Mais essa histórias e outras ficam para uma outra hora. 
+  </p>
+ 
+          <h4 class="h2-subtitle">Deixo uma mensagem para vocês refletirem:</h4>
+
+   <p>Ser feliz não é conquistar todas os seus objetivos, mais sim poder estar em busca deles, pois objetivos nunca param de surgir um após o outro. Sempre comemore cada conquista e seja feliz!</p>
+
+   </body>
+</html>
+
 Index do HTML: 
 <!DOCTYPE html>
 <html lang="pt-br">
